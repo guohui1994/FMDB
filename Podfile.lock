@@ -1,0 +1,22 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - SDAutoLayout (2.2.1)
+
+DEPENDENCIES:
+  - FMDB
+  - SDAutoLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - SDAutoLayout
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+
+PODFILE CHECKSUM: 789e1021c521b27a528b30a655b216de89bca387
+
+COCOAPODS: 1.5.3
